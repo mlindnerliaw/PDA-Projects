@@ -8,4 +8,4 @@ The `PDA-Project-1` file contains the PDF of the final report.
 
 For all analysis, the R version 4.1.2 was used. 
 
-![](https://github.com/mlindnerliaw/PDA-Projects/blob/main/Project%201/Screenshot%202024-12-13%20at%207.46.09%20PM.png
+![](Screenshot 2024-12-13 at 7.46.09 PM.png)
