@@ -8,4 +8,4 @@ The `PDA-Project-1` file contains the PDF of the final report.
 
 For all analysis, the R version 4.1.2 was used. 
 
-[!Alt text](Screenshot 2024-12-13 at 7.46.09 PM.png)
+[!Alt text](/Project 1/Screenshot 2024-12-13 at 7.46.09 PM.png)
