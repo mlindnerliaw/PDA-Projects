@@ -9,3 +9,6 @@ The `PDA-Project-1` file contains the PDF of the final report.
 For all analysis, the R version 4.1.2 was used. 
 
 <img width="860" alt="Screenshot 2024-12-13 at 7 46 09 PM" src="https://github.com/user-attachments/assets/20674618-21d6-4490-bdd7-f57312b02d41" />
+
+<img width="860" alt="Screenshot 2024-12-13 at 7 46 29 PM" src="https://github.com/user-attachments/assets/20674618-21d6-4490-bdd7-f57312b02d41" />
+
